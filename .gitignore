@@ -1,0 +1,14 @@
+# node
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+
+# env
+.env
+server/.env
+web/.env
+
+# build
+server/dist/
+web/dist/
